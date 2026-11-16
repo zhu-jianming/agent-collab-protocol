@@ -1,0 +1,11 @@
+# 忽略本机状态与产物
+__pycache__/
+*.pyc
+*.log
+*.pid
+inbox/
+outbox/
+results/
+archive/
+.DS_Store
+Thumbs.db
